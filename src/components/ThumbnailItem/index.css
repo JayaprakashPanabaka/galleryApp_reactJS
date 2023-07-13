@@ -1,0 +1,29 @@
+/* Write your code here. */
+.list-item {
+  list-style-type: none;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.thumbnail {
+  border-radius: 5px;
+  width: 60px;
+  height: 60px;
+  opacity: 0.5;
+}
+
+.active {
+  opacity: 1;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding: 0;
+  margin: 10px;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
